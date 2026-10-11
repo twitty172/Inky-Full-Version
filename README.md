@@ -249,4 +249,4 @@ This repository serves as the official landing page for Inky. The software is di
 **Get the most recent version of Inky today!**
 
 ---
-**Last updated:** 2026-10-11 18:46:29 UTC
+**Last updated:** 2026-10-11 22:46:04 UTC
